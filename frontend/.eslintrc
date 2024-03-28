@@ -16,7 +16,7 @@
   },
   "overrides": [
     {
-      "files": ["*.ts", "*.tsx"],
+      "files": ["*.ts", "*.tsx","*.jsx"],
       "rules": {
         // Allow state modification in Redux reducers
         "no-param-reassign": ["error", {
